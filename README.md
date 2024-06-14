@@ -1,7 +1,4 @@
 # House-Price-Predicition
-
-Here's a README file based on the code you provided:
-
 **California Housing Prices Prediction**
 
 This project explores the use of XGBoost regressor to predict median house prices in California districts based on public data. The data is retrieved from scikit-learn's `fetch_california_housing` function.
